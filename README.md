@@ -9,3 +9,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... There are 32 muscles in a cat's ear
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
