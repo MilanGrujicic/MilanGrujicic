@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ... There are 32 muscles in a cat's ear
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milangrujicic&layout=compact)](https://github.com/MilanGrujicic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milangrujicic&layout=compact&theme=discord_old_burple)](https://github.com/MilanGrujicic/github-readme-stats)
