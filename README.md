@@ -1,4 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/MilanGrujicic/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milangrujicic&label=Stalkers&color=2ec27e&style=flat-square" alt="milangrujicic" /> </p>
+
 ## Here is what I am working on! 👋
 
 - 🔭 I’m currently working on ... Rock, paper, scissors game with GUI, Password generator
