@@ -1,3 +1,4 @@
+![image title](https://rushter.com/counter.svg)
 ## Here is what I am working on! 👋
 
 - 🔭 I’m currently working on ... Rock, paper, scissors game with GUI, Password generator
