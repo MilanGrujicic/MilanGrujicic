@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MilanGrujicic/count.svg)
 ## Here is what I am working on! 👋
 
 - 🔭 I’m currently working on ... Rock, paper, scissors game with GUI, Password generator
