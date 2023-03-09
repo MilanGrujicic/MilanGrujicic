@@ -3,7 +3,7 @@
 ## Here is what I am working on! 👋
 
 - 🔭 I’m currently working on ... Rock, paper, scissors game with GUI, Password generator
-- 🌱 I’m currently learning ... Robot framework, Tkinter, Laravel
+- 🌱 I’m currently learning ... Robot framework, Python
 - 👯 I’m looking to collaborate on ... QA testing and automation testing 
 - 🤔 I’m looking for help with ... Life decisions
 - 💬 Ask me about ... Please don't ask me anything
