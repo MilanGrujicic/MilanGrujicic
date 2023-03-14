@@ -2,7 +2,7 @@
 
 ## Here is what I am working on! 👋
 
-- 🔭 I’m currently working on ... Rock, paper, scissors game with GUI, Password generator
+- 🔭 I’m currently working on ... Hash cracker
 - 🌱 I’m currently learning ... Robot framework, Python
 - 👯 I’m looking to collaborate on ... QA testing and automation testing 
 - 🤔 I’m looking for help with ... Life decisions
