@@ -2,7 +2,7 @@
 
 ## Here is what I am working on! 👋
 
-- 🔭 I’m currently working on ... Password generator
+- 🔭 I’m currently working on ... Brazil states game
 - 🌱 I’m currently learning ... Robot framework, Python
 - 👯 I’m looking to collaborate on ... QA testing and automation testing 
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/milan-grujicic-20ba05110/)
