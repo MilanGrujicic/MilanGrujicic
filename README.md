@@ -7,4 +7,3 @@
 - 👯 I’m looking to collaborate on ... QA testing and automation testing 
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/milan-grujicic-20ba05110/)
 - ⚡ Fun fact: ... There are 32 muscles in a cat's ear
-- 
