@@ -3,7 +3,7 @@
 ## Here is what I am working on! 👋
 
 - 🔭 I’m currently working on ... GIPHY API Test Suite
-- 🌱 I’m currently learning ... Python and Robot framework
+- 🌱 I’m currently learning ... Robot framework, Python and TypeScript
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/milan-grujicic-20ba05110/)
 - ⚡ Fun fact: ... There are 32 muscles in a cat's ear
 
