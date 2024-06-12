@@ -9,4 +9,4 @@
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@milan2/30-nites-of-code)  
-  ![@milan2 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=milan2)
+  ![@milan-gru #30NitesOfCode](https://www.codedex.io/api/petStatus?user=milan-gru)
