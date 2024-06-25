@@ -7,6 +7,9 @@
 - 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/milan-grujicic-20ba05110/)
 - ⚡ Fun fact ... The word "good-bye" is a contraction of "God be with ye."
 
+## Codewars
+![Codewars](https://github.r2v.ch/codewars?user=MilanGrujicic)
+
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@milan2/30-nites-of-code)  
   ![@milan-gru #30NitesOfCode](https://www.codedex.io/api/petStatus?user=milan-gru)
