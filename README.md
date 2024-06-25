@@ -8,7 +8,7 @@
 - ⚡ Fun fact ... The word "good-bye" is a contraction of "God be with ye."
 
 ## Codewars
-![Codewars](https://github.r2v.ch/codewars?user=MilanGrujicic)
+![Codewars](https://github.r2v.ch/codewars?user=MilanGrujicic&stroke=%edb713)
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@milan2/30-nites-of-code)  
