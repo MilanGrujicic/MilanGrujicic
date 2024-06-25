@@ -9,6 +9,7 @@
 
 ## Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=MilanGrujicic&stroke=%edb713)
+[![Codewars](https://www.codewars.com/users/MilanGrujicic/badges/large)](https://www.codewars.com/users/MilanGrujicic)
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@milan2/30-nites-of-code)  
