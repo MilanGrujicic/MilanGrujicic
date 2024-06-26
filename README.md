@@ -2,7 +2,7 @@
 
 ## Here is what I am working on! 👋
 
-- 🔭 I’m currently working on ... My web scraper
+- 🔭 I’m currently working on ... Codewars challenges
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/milan-grujicic-20ba05110/)
 - ⚡ Fun fact ... The word "good-bye" is a contraction of "God be with ye."
