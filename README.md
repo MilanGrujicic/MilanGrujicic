@@ -1,5 +1,5 @@
 <h1 align="center">A learner</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milangrujicic&label=Stalkers&color=2ec27e&style=for-the-badge" alt="milangrujicic" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=milangrujicic&label=Stalkers&color=2ec27e&style=for-the-badge" alt="milangrujicic" /> </p>
 
 ## Here is what I am working on! 👋
 
@@ -8,7 +8,7 @@
 - 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/milan-grujicic-20ba05110/)
 - ⚡ Fun fact ... The word "good-bye" is a contraction of "God be with ye."
 
-<div align="center">
+<div align="left">
 
   ## #30NitesOfCode
   ![@milan-gru #30NitesOfCode](https://www.codedex.io/api/petStatus?user=milan-gru)
@@ -17,7 +17,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ## Codewars
 [![Codewars](https://www.codewars.com/users/MilanGrujicic/badges/large)](https://www.codewars.com/users/MilanGrujicic)
