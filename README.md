@@ -1,4 +1,4 @@
-<h3 align="center">A learner</h3>
+<h2 align="center">A learner</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milangrujicic&label=Stalkers&color=2ec27e&style=for-the-badge" alt="milangrujicic" /> </p>
 
 ## Here is what I am working on! 👋
