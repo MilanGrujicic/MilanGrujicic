@@ -1,5 +1,5 @@
 <h1 align="center">A learner</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=milangrujicic&label=Stalkers&color=2ec27e&style=for-the-badge" alt="milangrujicic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milangrujicic&label=Stalkers&color=2ec27e&style=for-the-badge" alt="milangrujicic" /> </p>
 
 ## Here is what I am working on! 👋
 
