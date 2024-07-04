@@ -14,7 +14,6 @@
   
   [Check out my progress!](https://www.codedex.io/@milan-gru/30-nites-of-code)
 
-
 ## Codewars
 [![Codewars](https://www.codewars.com/users/MilanGrujicic/badges/large)](https://www.codewars.com/users/MilanGrujicic)
 
